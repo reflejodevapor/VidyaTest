@@ -8,7 +8,7 @@ public class Movement : MonoBehaviour
     public float Xspeed = 1.0f;
     public Text Texto_de_direccion;
 
-
+	//
     // Use this for initialization
     void Start()
     {
